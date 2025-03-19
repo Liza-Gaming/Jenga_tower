@@ -1,0 +1,29 @@
+fileFormatVersion: 2
+guid: 2f121dedbe7d1d245a5ca1a78a614a9b
+AudioImporter:
+  externalObjects: {}
+  serializedVersion: 6
+  defaultSettings:
+    loadType: 0
+    sampleRateSetting: 0
+    sampleRateOverride: 44100
+    compressionFormat: 1
+    quality: 1
+    conversionMode: 0
+  platformSettingOverrides: {}
+  forceToMono: 0
+  normalize: 1
+  preloadAudioData: 1
+  loadInBackground: 0
+  ambisonic: 0
+  3D: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 139997
+  packageName: Untitled
+  packageVersion: 1.0
+  assetPath: Assets/Wood Splitting Pack 1/Mono/Wood_Splitting_13_mono.wav
+  uploadId: 294739

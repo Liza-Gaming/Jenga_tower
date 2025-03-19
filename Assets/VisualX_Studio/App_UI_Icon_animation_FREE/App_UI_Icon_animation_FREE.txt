@@ -1,0 +1,17 @@
+////////////////////////////////////////////////////////////////////////////////////////////
+                   App_UI_Icon_animation_Pack_Volume_1
+////////////////////////////////////////////////////////////////////////////////////////////
+The set consists of 9 animated icons. They are created with the help of animator in Canvas. 
+In order to change the color of the icon. it is necessary to set the desired color to all sprites that are inside the prefab. Except for the "Back" object, it is temporary and can be deleted.
+Demo: 
+- Demo_scene (white)
+- Demo_scene (colored)
+default scene resolution: 2560x1440
+
+- full set of 96 icons at the link: https://u3d.as/3egd
+
+Thank you for purchasing our kit. 
+
+
+VisualX
+vvvisualxxx@gmail.com
